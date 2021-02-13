@@ -1,2 +1,2 @@
 # 2048
-Le jeu 2048 en python
+Je l'ai fait pour un projet de 1ère en spétialité numérique et science informatique au lycée Jean Jaurès.
